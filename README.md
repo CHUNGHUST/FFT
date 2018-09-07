@@ -1,2 +1,2 @@
 # FFT
-Fast fourire trassform
+Fast fourire transform
